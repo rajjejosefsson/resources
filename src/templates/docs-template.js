@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Helmet from "react-helmet";
 import styled from "styled-components";
 import MarkdownPageFooter from "../components/shared/MarkdownPageFooter";
-import { prefixLink } from "gatsby-helpers";
 
 const Container = styled.div`
   margin-bottom: 150px;
