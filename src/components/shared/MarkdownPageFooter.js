@@ -31,7 +31,7 @@ export default class MarkdownPageFooter extends React.Component {
             border: "none",
             padding: "0.7rem"
           }}
-          href={`https://github.com/rajjejosefsson/doc/blob/master/src/docs${
+          href={`https://github.com/rajjejosefsson/resource/blob/master/src/docs${
             this.props.page.frontmatter.path
           }.md`}
         >
