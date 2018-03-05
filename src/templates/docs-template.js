@@ -51,7 +51,6 @@ class Template extends Component {
   render() {
     const { data } = this.props;
     const { markdownRemark: page } = data;
-    debugger;
     return (
       <Container>
         <Helmet title="Resources" />
