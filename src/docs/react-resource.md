@@ -32,6 +32,10 @@ title: "React Resource"
 [How to use the new react context api - Egghead](https://egghead.io/lessons/react-use-the-new-react-context-api) \(PRO\)
 
 
+## InnerRef
+
+[RFCS - Github](https://github.com/reactjs/rfcs/pull/30)
+
 ## Tips
 
 [Fraklin - Habits of Successful React components](https://javascriptplayground.com/habits-of-successful-react-components/)
