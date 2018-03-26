@@ -5,6 +5,8 @@ title: "React Resource"
 
 ## Recommendations
 
+[Andrew Clark - On React Team](https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg)
+
 [American Express Clean Code](http://americanexpress.io/clean-code-dirty-code/)
 
 [React Patterns](https://github.com/planningcenter/react-patterns/blob/master/README.md)
@@ -50,6 +52,8 @@ title: "React Resource"
 ## Testing 
 
 [Making your UI tests resilient to change](https://blog.kentcdodds.com/making-your-ui-tests-resilient-to-change-d37a6ee37269)
+
+[Effective Snapshot Testing](https://blog.kentcdodds.com/effective-snapshot-testing-e0d1a2c28eca)
 
 ## Libraries
 
