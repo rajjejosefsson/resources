@@ -47,6 +47,8 @@ title: "React Resource"
 
 [Unstated](https://github.com/jamiebuilds/unstated)
 
+[React Final Form] (https://github.com/final-form/react-final-form#-react-final-form)
+
 ## Collection of everything
 
 [Awesome React](https://github.com/enaqx/awesome-react)
