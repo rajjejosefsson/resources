@@ -43,6 +43,10 @@ title: "React Resource"
 [https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate](https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate)
 
 
+## Testing 
+
+[Making your UI tests resilient to change](https://blog.kentcdodds.com/making-your-ui-tests-resilient-to-change-d37a6ee37269)
+
 ## Libraries
 
 [Unstated](https://github.com/jamiebuilds/unstated)
@@ -50,6 +54,17 @@ title: "React Resource"
 [React Final Form](https://github.com/final-form/react-final-form#-react-final-form)
 
 [React Testing Library](https://github.com/kentcdodds/react-testing-library)
+
+[Immer](https://github.com/mweststrate/immer)
+
+
+## Plugins 
+
+[babel-plugin-react-remove-properties](https://github.com/oliviertassinari/babel-plugin-react-remove-properties)
+
+## Understand underlaying React
+
+[Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer/blob/master/part-one.md)
 
 ## Collection of everything
 
