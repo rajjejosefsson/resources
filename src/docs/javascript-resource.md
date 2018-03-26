@@ -33,3 +33,5 @@ baseline: "Resource for Javascript"
 [Const is fucking useful](https://medium.com/@cherp/const-is-fucking-useful-8f2b4e6652ea)
 
 [Reducers vs Trancuders] (http://maksimivanov.com/posts/reducers-vs-transducers)
+
+[Why I don’t like ImmutableJS in React](https://itnext.io/why-i-dont-like-immutablejs-in-react-f1d2fd03230e)
