@@ -31,6 +31,11 @@ title: "React Resource"
 
 [How to use the new react context api - Egghead](https://egghead.io/lessons/react-use-the-new-react-context-api) \(PRO\)
 
+
+## Tips
+
+[Fraklin - Habits of Successful React components](https://javascriptplayground.com/habits-of-successful-react-components/)
+
 ## Course
 
 [https://courses.totalreact.com/](https://courses.totalreact.com/)
