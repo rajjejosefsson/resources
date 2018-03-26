@@ -47,7 +47,7 @@ title: "React Resource"
 
 [Unstated](https://github.com/jamiebuilds/unstated)
 
-[React Final Form] (https://github.com/final-form/react-final-form#-react-final-form)
+[React Final Form](https://github.com/final-form/react-final-form#-react-final-form)
 
 ## Collection of everything
 
