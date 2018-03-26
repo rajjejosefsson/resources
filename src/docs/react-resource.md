@@ -42,6 +42,11 @@ title: "React Resource"
 
 [https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate](https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate)
 
+
+## Libraries
+
+[Unstated](https://github.com/jamiebuilds/unstated)
+
 ## Collection of everything
 
 [Awesome React](https://github.com/enaqx/awesome-react)
