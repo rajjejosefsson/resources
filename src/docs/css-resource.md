@@ -12,6 +12,10 @@ title: "CSS Resource"
 [Mozilla - Interactive transform: rotate3d() examples](https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/)
 
 
+## Animations
+
+[Making Custom Properties (CSS Variables) More Dynamic](https://css-tricks.com/making-custom-properties-css-variables-dynamic/)
+
 ## SVG
 
 [Geddski - svg components](http://gedd.ski/post/dynamic-svg-components/)
