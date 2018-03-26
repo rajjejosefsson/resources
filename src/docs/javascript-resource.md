@@ -31,3 +31,5 @@ baseline: "Resource for Javascript"
 ## Tips
 
 [Const is fucking useful](https://medium.com/@cherp/const-is-fucking-useful-8f2b4e6652ea)
+
+[Reducers vs Trancuders] (http://maksimivanov.com/posts/reducers-vs-transducers)
