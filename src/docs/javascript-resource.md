@@ -28,3 +28,6 @@ baseline: "Resource for Javascript"
 [Async stack traces](https://mathiasbynens.be/notes/async-stack-traces/)
 
 
+## Tips
+
+[Const is fucking useful](https://medium.com/@cherp/const-is-fucking-useful-8f2b4e6652ea)
