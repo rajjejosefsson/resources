@@ -76,6 +76,8 @@ title: "React Resource"
 
 [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer/blob/master/part-one.md)
 
+[Async vs Sync react - 16.3](https://twitter.com/acdlite/status/977291318324948992)
+
 ## Collection of everything
 
 [Awesome React](https://github.com/enaqx/awesome-react)
