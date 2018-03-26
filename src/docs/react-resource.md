@@ -49,6 +49,8 @@ title: "React Resource"
 
 [React Final Form](https://github.com/final-form/react-final-form#-react-final-form)
 
+[React Testing Library](https://github.com/kentcdodds/react-testing-library)
+
 ## Collection of everything
 
 [Awesome React](https://github.com/enaqx/awesome-react)
