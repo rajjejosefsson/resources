@@ -27,3 +27,5 @@ title: "Build systems"
 ## Readme Files
 
 [Structure your readme](https://glebbahmutov.com/blog/how-i-organize-readme/)
+
+[Cool Badges](http://jsbin.com/nevanoheki/1/edit?html,output)
