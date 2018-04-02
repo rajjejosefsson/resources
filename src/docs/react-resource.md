@@ -23,7 +23,7 @@ title: "React Resource"
 
 [React Blogs](https://blog.instabug.com/2018/02/react-blogs/)
 
-[React Indepth - WIP])(https://developmentarc.gitbooks.io/react-indepth/content/)
+[React Indepth - WIP](https://developmentarc.gitbooks.io/react-indepth/content/)
 
 ## Render Prop
 
