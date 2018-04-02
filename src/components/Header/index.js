@@ -30,10 +30,6 @@ const Logo = styled.div`
     img {
       height: 125px;
 
-      @media (max-width: 600px) {
-        height: 50px;
-      }
-
       padding: 0;
       margin: 0;
     }
