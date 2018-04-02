@@ -150,7 +150,7 @@ const Sidebar = () => (
       </li>
     </ul>
     <h3>Apollo</h3>
-    <ul style={{ height: "100px" }}>
+    <ul>
       <li>
         <Link to="/apollo" activeClassName="selected">
           Resource
@@ -200,7 +200,7 @@ const Sidebar = () => (
       </li>
     </ul>
     <h3>Typescript</h3>
-    <ul style={{ height: "100px" }}>
+    <ul>
       <li>
         <Link to="/typescript-resource" activeClassName="selected">
           Resource
@@ -213,7 +213,7 @@ const Sidebar = () => (
       </li>
     </ul>
     <h3>Build Systems</h3>
-    <ul style={{ height: "100px" }}>
+    <ul>
       <li>
         <Link to="/build-systems" activeClassName="selected">
           Resource

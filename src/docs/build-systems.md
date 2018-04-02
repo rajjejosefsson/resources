@@ -1,5 +1,5 @@
 ---
-path: "/build-sysmtes"
+path: "/build-systems"
 title: "Build systems"
 ---
 
