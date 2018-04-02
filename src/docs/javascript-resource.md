@@ -17,7 +17,7 @@ title: "Javascript Resource"
 
 [Observables](https://x-team.com/blog/rxjs-observables/) \(rxjs\)
 
-[Observable whatwg DOM ](https://github.com/whatwg/dom/issues/544)
+[Observable whatwg DOM](https://github.com/whatwg/dom/issues/544)
 
 [Rxjs Paint with mouse example](https://medium.com/@jdjuan/mouse-drag-with-rxjs-45861c4d0b7e)
 
@@ -34,6 +34,11 @@ title: "Javascript Resource"
 [Reducers vs Trancuders](http://maksimivanov.com/posts/reducers-vs-transducers)
 
 [Why I don’t like ImmutableJS in React](https://itnext.io/why-i-dont-like-immutablejs-in-react-f1d2fd03230e)
+
+
+## V8 
+
+[Elements kinds in v8 - Mathias](https://v8project.blogspot.com.es/2017/09/elements-kinds-in-v8.html)
 
 # Libraries
 
