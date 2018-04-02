@@ -15,6 +15,10 @@ title: "Build systems"
 
 [Larkin - Live Stream about Plugins](https://www.twitch.tv/videos/241479859)
 
+## Rollup
+
+[react-modern-library-boilerplate](https://github.com/transitive-bullshit/react-modern-library-boilerplate)
+
 ## Video
 
 [how-to-use-npm-scripts-as-your-build-tool](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
