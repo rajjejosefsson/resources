@@ -19,6 +19,10 @@ title: "CSS Resource"
 [Mozilla - filter: x examples](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
 
 
+## Videos
+
+[Introduction to Viewport Units - Jen Simmons (vh, vw)] (https://www.youtube.com/watch?v=_sgF8I-Q1Gs&feature=youtu.be)
+
 ## Animations
 
 [Making Custom Properties (CSS Variables) More Dynamic](https://css-tricks.com/making-custom-properties-css-variables-dynamic/)
