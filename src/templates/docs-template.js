@@ -5,6 +5,7 @@ import MarkdownPageFooter from "../components/shared/MarkdownPageFooter";
 
 const Container = styled.div`
   margin-bottom: 150px;
+  margin: 0 30px;
 `;
 
 const Header = styled.header`
@@ -22,7 +23,6 @@ const Header = styled.header`
 const Content = styled.div`
   display: flex;
   flex-direction: column;
-  margin: 0 30px;
 
   img {
   }
