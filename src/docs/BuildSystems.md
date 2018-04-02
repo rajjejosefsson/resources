@@ -13,3 +13,8 @@ Build systems
 ## Webpack
 
 [Larkin - Live Stream about Plugins](https://www.twitch.tv/videos/241479859)
+
+
+## Video 
+
+[how-to-use-npm-scripts-as-your-build-tool](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
