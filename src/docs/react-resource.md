@@ -37,10 +37,10 @@ title: "React Resource"
 
 ## React AsyncMode
 
-[Upcoming AsyncMode]https://github.com/sw-yx/fresh-async-react)
+[Upcoming AsyncMode](https://github.com/sw-yx/fresh-async-react)
 
 
-## InnerRef
+## Ref
 
 [RFCS - Github](https://github.com/reactjs/rfcs/pull/30)
 
