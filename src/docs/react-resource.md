@@ -55,6 +55,8 @@ title: "React Resource"
 
 ## Course
 
+[React 16 - The Complete Guide - Max](https://www.udemy.com/react-the-complete-guide-incl-redux/)
+
 [Total React](https://courses.totalreact.com/)
 
 [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
