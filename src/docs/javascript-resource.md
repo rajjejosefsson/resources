@@ -4,7 +4,6 @@ title: "Javascript Resource"
 baseline: "Resource for Javascript"
 ---
 
-
 > An easy explanation of how the internal process for JavaScript works.
 >
 > [How the fuck does javascript work](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
@@ -16,6 +15,7 @@ baseline: "Resource for Javascript"
 [addyosmani essential js design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Observavles
+
 [Observables](https://x-team.com/blog/rxjs-observables/) \(rxjs\)
 
 [Observable whatwg DOM ](https://github.com/whatwg/dom/issues/544)
@@ -23,10 +23,10 @@ baseline: "Resource for Javascript"
 [Rxjs Paint with mouse example](https://medium.com/@jdjuan/mouse-drag-with-rxjs-45861c4d0b7e)
 
 ## Async Await
+
 [Async await functions](https://start.jcolemorrison.com/5-tips-and-thoughts-on-async-await-functions/)
 
 [Async stack traces](https://mathiasbynens.be/notes/async-stack-traces/)
-
 
 ## Tips
 
@@ -35,3 +35,9 @@ baseline: "Resource for Javascript"
 [Reducers vs Trancuders](http://maksimivanov.com/posts/reducers-vs-transducers)
 
 [Why I don’t like ImmutableJS in React](https://itnext.io/why-i-dont-like-immutablejs-in-react-f1d2fd03230e)
+
+# Libraries
+
+[Callbag](https://github.com/staltz/callbag-basics)
+
+[Idx](https://github.com/facebookincubator/idx)

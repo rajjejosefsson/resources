@@ -1,5 +1,9 @@
+---
+path: "/apollo"
+title: "Apollo"
+---
 
-## Resource 
+## Resource
 
 [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c2)
 

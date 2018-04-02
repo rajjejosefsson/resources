@@ -1,10 +1,11 @@
-
-Build systems
+---
+path: "/build-sysmtes"
+title: "Build systems"
+---
 
 ## Es Modules
 
 [ES-Modules explained in cartoon - Lin Clark](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-
 
 ## Tools
 
@@ -14,7 +15,6 @@ Build systems
 
 [Larkin - Live Stream about Plugins](https://www.twitch.tv/videos/241479859)
 
-
-## Video 
+## Video
 
 [how-to-use-npm-scripts-as-your-build-tool](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)

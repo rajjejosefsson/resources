@@ -127,12 +127,6 @@ const Sidebar = () => (
           Component Libraries
         </Link>
       </li>
-
-      <li>
-        <Link to="/react-people" activeClassName="selected">
-          People
-        </Link>
-      </li>
     </ul>
     <h3>Components</h3>
     <ul>
@@ -154,14 +148,12 @@ const Sidebar = () => (
           Styleguides
         </Link>
       </li>
+    </ul>
+    <h3>Apollo</h3>
+    <ul style={{ height: "100px" }}>
       <li>
-        <Link to="/javascript-libraries" activeClassName="selected">
-          Libraries
-        </Link>
-      </li>
-      <li>
-        <Link to="/javascript-people" activeClassName="selected">
-          People
+        <Link to="/apollo" activeClassName="selected">
+          Resource
         </Link>
       </li>
     </ul>
@@ -192,11 +184,6 @@ const Sidebar = () => (
           Cheat-sheet
         </Link>
       </li>
-      <li>
-        <Link to="/css-people" activeClassName="selected">
-          CSS People
-        </Link>
-      </li>
     </ul>
     <h3>HTML</h3>
     <ul>
@@ -205,19 +192,10 @@ const Sidebar = () => (
           Standards
         </Link>
       </li>
-      <li>
-        <Link to="/html-semantics" activeClassName="selected">
-          Semantics
-        </Link>
-      </li>
+
       <li>
         <Link to="/html-cheat-sheet" activeClassName="selected">
           Cheat sheet
-        </Link>
-      </li>
-      <li>
-        <Link to="/html-resource" activeClassName="selected">
-          Resource
         </Link>
       </li>
     </ul>
@@ -233,9 +211,20 @@ const Sidebar = () => (
           Styleguides
         </Link>
       </li>
+    </ul>
+    <h3>Build Systems</h3>
+    <ul style={{ height: "100px" }}>
       <li>
-        <Link to="/typescript-people" activeClassName="selected">
-          People
+        <Link to="/build-systems" activeClassName="selected">
+          Resource
+        </Link>
+      </li>
+    </ul>
+    <h3>Chrome</h3>
+    <ul style={{ height: "100px" }}>
+      <li>
+        <Link to="chrome" activeClassName="selected">
+          Resource
         </Link>
       </li>
     </ul>
