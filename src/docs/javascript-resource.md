@@ -38,6 +38,8 @@ title: "Javascript Resource"
 
 ## V8 
 
+[Official Blog](https://v8project.blogspot.com/)
+
 [Elements kinds in v8 - Mathias](https://v8project.blogspot.com.es/2017/09/elements-kinds-in-v8.html)
 
 # Libraries
