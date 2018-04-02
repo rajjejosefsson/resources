@@ -18,6 +18,12 @@ title: "Apollo"
 [Local State - apollo-link-state](https://www.apollographql.com/docs/react/essentials/local-state.html)
 
 
+## Medium 
+
+[peggyrayzis](https://dev-blog.apollodata.com/@peggyrayzis)
+
 ## Example Apps
 
 [Pupstagram](https://codesandbox.io/s/r5qp83z0yq)
+
+
