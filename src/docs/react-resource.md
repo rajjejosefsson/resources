@@ -35,6 +35,10 @@ title: "React Resource"
 
 [How to use the new react context api - Egghead](https://egghead.io/lessons/react-use-the-new-react-context-api) \(PRO\)
 
+## React AsyncMode
+
+[Upcoming AsyncMode]https://github.com/sw-yx/fresh-async-react)
+
 
 ## InnerRef
 
