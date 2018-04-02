@@ -1,9 +1,7 @@
 ---
 path: "/css-grid"
 title: "CSS Grid"
-baseline: "Alignment"
 ---
-
 
 [Mozilla CSS Grid Playground](https://mozilladevelopers.github.io/playground/css-grid)
 

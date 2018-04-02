@@ -1,7 +1,6 @@
 ---
 path: "/javascript-resource"
 title: "Javascript Resource"
-baseline: "Resource for Javascript"
 ---
 
 > An easy explanation of how the internal process for JavaScript works.

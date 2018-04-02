@@ -223,7 +223,7 @@ const Sidebar = () => (
     <h3>Chrome</h3>
     <ul style={{ height: "100px" }}>
       <li>
-        <Link to="chrome" activeClassName="selected">
+        <Link to="/chrome" activeClassName="selected">
           Resource
         </Link>
       </li>
