@@ -9,7 +9,9 @@ title: "CSS Resource"
 
 ## Interactive Examples
 
-[Mozilla - Interactive transform: rotate3d() examples](https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/)
+[Mozilla - transform: rotate3d() examples](https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/)
+
+[Mozilla - filter: x examples](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
 
 
 ## Animations
