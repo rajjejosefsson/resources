@@ -7,10 +7,6 @@ const MarginContainer = styled.div`
   max-width: ${spacing.siteWidth};
   width: 100%;
   padding-top: 0;
-
-  @media (max-width: 600px) {
-    padding: 0 60px;
-  }
 `;
 
 export default MarginContainer;
