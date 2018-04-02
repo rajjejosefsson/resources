@@ -1,6 +1,6 @@
 // @flow
-import styled from 'styled-components'
-import * as spacing from '../../theme/spacing'
+import styled from "styled-components";
+import * as spacing from "../../theme/spacing";
 
 const MarginContainer = styled.div`
   margin: 0 auto;
@@ -9,8 +9,8 @@ const MarginContainer = styled.div`
   padding-top: 0;
 
   @media (max-width: 600px) {
-   padding: 0 20px;
+    padding: 0 60px;
   }
-`
+`;
 
-export default MarginContainer
+export default MarginContainer;

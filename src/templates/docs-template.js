@@ -22,6 +22,8 @@ const Header = styled.header`
 const Content = styled.div`
   display: flex;
   flex-direction: column;
+  margin: 0 30px;
+
   img {
   }
 
