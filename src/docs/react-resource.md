@@ -5,7 +5,7 @@ title: "React Resource"
 
 ## Recommendations
 
-[Instead of this use this](https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg)
+[Instead of this use this - acdlit](https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg)
 
 [American Express Clean Code](http://americanexpress.io/clean-code-dirty-code/)
 
