@@ -22,3 +22,8 @@ title: "Build systems"
 ## Video
 
 [how-to-use-npm-scripts-as-your-build-tool](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
+
+
+## Readme Files
+
+[Structure your readme](https://glebbahmutov.com/blog/how-i-organize-readme/)
