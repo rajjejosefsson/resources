@@ -44,6 +44,11 @@ title: "React Resource"
 
 [RFCS - Github](https://github.com/reactjs/rfcs/pull/30)
 
+
+## Component vs Function
+
+[Component vs Function](https://t.co/oL6YJjYqbk)
+
 ## Tips
 
 [Fraklin - Habits of Successful React components](https://javascriptplayground.com/habits-of-successful-react-components/)
