@@ -39,12 +39,6 @@ title: "React Resource"
 
 [Upcoming AsyncMode](https://github.com/sw-yx/fresh-async-react)
 
-
-## Ref
-
-[RFCS - Github](https://github.com/reactjs/rfcs/pull/30)
-
-
 ## Component vs Function
 
 [Component vs Function](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
