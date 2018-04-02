@@ -55,9 +55,13 @@ title: "React Resource"
 
 ## Course
 
-[https://courses.totalreact.com/](https://courses.totalreact.com/)
+[Total React](https://courses.totalreact.com/)
 
-[https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate](https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate)
+[Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+
+[Redux - Dan](https://egghead.io/courses/getting-started-with-redux)
+
+[Optimistic ui updates - egghead](https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate)
 
 
 ## Testing 
