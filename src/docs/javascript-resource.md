@@ -27,6 +27,10 @@ title: "Javascript Resource"
 
 [Async stack traces](https://mathiasbynens.be/notes/async-stack-traces/)
 
+
+## API's 
+[Currency API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat)
+
 ## Tips
 
 [Const is fucking useful](https://medium.com/@cherp/const-is-fucking-useful-8f2b4e6652ea)
