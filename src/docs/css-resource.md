@@ -30,3 +30,5 @@ title: "CSS Resource"
 ## SVG
 
 [Geddski - svg components](http://gedd.ski/post/dynamic-svg-components/)
+
+[SVG Builder - Draw in codepen](https://codepen.io/anthonydugois/pen/mewdyZ)
