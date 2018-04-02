@@ -10,3 +10,5 @@
 ## Apollo
 
 [Render Prop in Apollo](https://blog.graph.cool/tutorial-render-props-in-react-apollo-2-1-199e9e2bd01e)
+
+[Local State - apollo-link-state](https://www.apollographql.com/docs/react/essentials/local-state.html)
