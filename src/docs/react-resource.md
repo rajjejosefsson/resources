@@ -47,7 +47,7 @@ title: "React Resource"
 
 ## Component vs Function
 
-[Component vs Function](https://t.co/oL6YJjYqbk)
+[Component vs Function](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 
 ## Tips
 
