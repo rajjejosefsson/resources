@@ -35,6 +35,11 @@ title: "React Resource"
 
 [How to use the new react context api - Egghead](https://egghead.io/lessons/react-use-the-new-react-context-api) \(PRO\)
 
+
+## React Lifecycle Hooks
+
+[Discussion: componentWillReceiveProps vs getDerivedStateFromProps](https://github.com/reactjs/reactjs.org/issues/721)
+
 ## React AsyncMode
 
 [Upcoming AsyncMode](https://github.com/sw-yx/fresh-async-react)
