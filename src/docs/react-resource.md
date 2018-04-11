@@ -38,7 +38,13 @@ title: "React Resource"
 
 ## React Lifecycle Hooks
 
+[Lifecycle methods diagram - interactive](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+[Lifecycle methods diagram - dan tweet origin](https://twitter.com/dan_abramov/status/981712092611989509)
+
 [Discussion: componentWillReceiveProps vs getDerivedStateFromProps](https://github.com/reactjs/reactjs.org/issues/721)
+
+[Dan tweet - getDerivedStateFromProps() - be carefull](https://twitter.com/dan_abramov/status/979521369900769280)
 
 ## React AsyncMode
 
