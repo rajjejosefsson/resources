@@ -39,6 +39,9 @@ title: "Javascript Resource"
 
 [Why I don’t like ImmutableJS in React](https://itnext.io/why-i-dont-like-immutablejs-in-react-f1d2fd03230e)
 
+## Arrays
+
+[rauschma - api-cheatsheet-array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
 
 ## V8 
 
