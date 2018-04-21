@@ -5,6 +5,8 @@ title: "React Resource"
 
 ## Recommendations
 
+[React In Patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details)
+
 [Instead of this use this - acdlit](https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg)
 
 [American Express Clean Code](http://americanexpress.io/clean-code-dirty-code/)
