@@ -105,6 +105,8 @@ title: "React Resource"
 
 [babel-plugin-react-remove-properties](https://github.com/oliviertassinari/babel-plugin-react-remove-properties)
 
+[React suspense fetch extension](https://github.com/pomber/hitchcock)
+
 ## Understand underlaying React
 
 [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer/blob/master/part-one.md)
