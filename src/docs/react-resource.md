@@ -72,6 +72,8 @@ title: "React Resource"
 
 [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 
+[Advanced React Component Patterns - updated examples ](https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2)
+
 [Redux - Dan](https://egghead.io/courses/getting-started-with-redux)
 
 [Optimistic ui updates - egghead](https://egghead.io/lessons/react-optimistic-ui-update-in-react-using-setstate)
