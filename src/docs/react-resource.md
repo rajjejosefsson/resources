@@ -118,6 +118,10 @@ title: "React Resource"
 [Why React needed yet another animation library. Introducing: react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce)
 
 
+## Redux
+
+[The Fundamentals of Redux Mark Erikson](https://www.realworldreact.com/talks/2018-03-the-fundamentals-of-redux/)
+
 ## Collection of everything
 
 [Awesome React](https://github.com/enaqx/awesome-react)
