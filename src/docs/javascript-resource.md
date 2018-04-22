@@ -43,6 +43,11 @@ title: "Javascript Resource"
 
 [rauschma - api-cheatsheet-array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
 
+
+## Event Listeners
+
+[An in-depth guide to event listeners](https://www.audero.it/blog/2018/04/18/in-depth-guide-event-listeners/)
+
 ## V8 
 
 [Official Blog](https://v8project.blogspot.com/)
