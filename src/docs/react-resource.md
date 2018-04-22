@@ -95,6 +95,8 @@ title: "React Resource"
 
 [Immer](https://github.com/mweststrate/immer)
 
+[React-copy-write](https://github.com/aweary/react-copy-write)
+
 [React Beautiful dnd](https://react-beautiful-dnd.netlify.com/iframe.html?selectedKind=board&selectedStory=simple)
 
 ## Plugins 
