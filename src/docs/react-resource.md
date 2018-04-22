@@ -48,6 +48,8 @@ title: "React Resource"
 
 [Dan tweet - getDerivedStateFromProps() - be carefull](https://twitter.com/dan_abramov/status/979521369900769280)
 
+[Dan tweet - getDerivedStateFromProps tip](https://twitter.com/dan_abramov/status/984758512063479811) 
+
 ## React AsyncMode
 
 [Upcoming AsyncMode](https://github.com/sw-yx/fresh-async-react)
