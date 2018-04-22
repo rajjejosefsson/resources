@@ -106,6 +106,11 @@ title: "React Resource"
 
 [Async vs Sync react - 16.3](https://twitter.com/acdlite/status/977291318324948992)
 
+## Animation 
+
+[Why React needed yet another animation library. Introducing: react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce)
+
+
 ## Collection of everything
 
 [Awesome React](https://github.com/enaqx/awesome-react)
