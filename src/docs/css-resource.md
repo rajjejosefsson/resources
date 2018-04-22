@@ -3,6 +3,12 @@ path: "/css-resource"
 title: "CSS Resource"
 ---
 
+## API Stuff
+
+[Cropping images with Object Fit - Simons](https://www.youtube.com/watch?v=5CZyxnCdXuk&feature=youtu.be)
+
+[Viewport - Simons](https://www.youtube.com/watch?v=QY3lTBZnJmE&feature=youtu.be)
+
 ## Articles
 
 [CSS-grid kills bootstrap grid](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
