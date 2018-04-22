@@ -18,3 +18,7 @@ title: "CSS Grid"
 [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
 
 [CSS Grid at scale](https://julian.is/article/css-grid-at-scale/)
+
+## FR Unit
+
+[FR Units in CSS Grid — 2/3 Flexibility](https://www.youtube.com/watch?v=ZPtpzuRajzM&feature=youtu.be)
