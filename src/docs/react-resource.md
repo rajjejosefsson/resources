@@ -5,6 +5,9 @@ title: "React Resource"
 
 ## Recommendations
 
+[Debugging React Performance - react 16](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad?gi=49ccaf0d3621
+)
+
 [React In Patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details)
 
 [Instead of this use this - acdlit](https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg)
