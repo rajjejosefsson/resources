@@ -33,6 +33,8 @@ title: "Javascript Resource"
 
 ## Tips
 
+[Functional Programing objects and arrays](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays)
+
 [Const is fucking useful](https://medium.com/@cherp/const-is-fucking-useful-8f2b4e6652ea)
 
 [Reducers vs Trancuders](http://maksimivanov.com/posts/reducers-vs-transducers)
