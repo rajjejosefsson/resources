@@ -11,6 +11,8 @@ title: "Apollo"
 
 [react-fullstack-graphql - Boilerplate](https://github.com/graphql-boilerplates/react-fullstack-graphql/tree/master/basic)
 
+[Querying a schema based on JSON data - generator](https://www.graphql.college/practice-graphql/#)
+
 ## Apollo
 
 [Render Prop in Apollo](https://blog.graph.cool/tutorial-render-props-in-react-apollo-2-1-199e9e2bd01e)
