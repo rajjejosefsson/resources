@@ -90,6 +90,8 @@ title: "React Resource"
 
 [Effective Snapshot Testing](https://blog.kentcdodds.com/effective-snapshot-testing-e0d1a2c28eca)
 
+[react-testing-examples](https://react-testing-examples.com/)
+
 ## Libraries
 
 [Unstated](https://github.com/jamiebuilds/unstated)
