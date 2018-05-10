@@ -5,6 +5,8 @@ title: "Component Libraries"
 
 [Awesome-react-components collection](https://github.com/brillout/awesome-react-components)
 
+[Zendesk](https://garden.zendesk.com/react-components/)
+
 [Material UI](https://github.com/mui-org/material-ui)
 
 [Material-Components](https://github.com/material-components/material-components-web/tree/master/packages)
