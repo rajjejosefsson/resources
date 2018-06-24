@@ -31,6 +31,10 @@ title: "Javascript Resource"
 ## API's 
 [Currency API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat)
 
+## Utilities
+
+[Key Codes](http://keycode.info/)
+
 ## Tips
 
 [Functional Programing objects and arrays](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays)
