@@ -11,6 +11,8 @@ title: "Build systems"
 
 [Console Dashboards](http://formidable.com/open-source/development-dashboards/)
 
+[Make a beautiful cli](https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/)
+
 ## Webpack
 
 [Larkin - Live Stream about Plugins](https://www.twitch.tv/videos/241479859)
