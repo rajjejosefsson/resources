@@ -37,3 +37,7 @@ title: "Build systems"
 
 ## Chart tool
 [Wooppppa](https://whimsical.co/)
+
+## Git (todo:move-to-own-place)
+
+[4 Tips](https://dev.to/ben/four-helpful-guides-for-grasping-the-ever-elusive-concept-of-git-rebase-36d6)
