@@ -34,3 +34,11 @@ title: "CSS Resource"
 [Geddski - svg components](http://gedd.ski/post/dynamic-svg-components/)
 
 [SVG Builder - Draw in codepen](https://codepen.io/anthonydugois/pen/mewdyZ)
+
+## Design 
+
+[UI Goodies](http://uigoodies.com/index.html)
+
+[Layouts of tomorrow](https://mxb.at/blog/layouts-of-tomorrow/
+)
+
