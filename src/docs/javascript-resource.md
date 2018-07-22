@@ -48,6 +48,8 @@ title: "Javascript Resource"
 
 [Why I don’t like ImmutableJS in React](https://itnext.io/why-i-dont-like-immutablejs-in-react-f1d2fd03230e)
 
+[Alernative to npm link](https://medium.com/@cvitullo/problems-with-npm-link-and-an-alternative-4dbdd3e66811)
+
 ## Arrays
 
 [rauschma - api-cheatsheet-array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
