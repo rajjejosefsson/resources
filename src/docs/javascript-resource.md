@@ -33,7 +33,10 @@ title: "Javascript Resource"
 
 ## Utilities
 
+[v8n - functional helper](https://github.com/imbrn/v8n)
+
 [Key Codes](http://keycode.info/)
+
 
 ## Tips
 
